@@ -2,4 +2,8 @@ index.txt
 
 Listening to bhanu singh sunny hassan
 
+<<<<<<< HEAD
 updating 2
+=======
+updating1
+>>>>>>> hello-world-images
